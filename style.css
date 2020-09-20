@@ -1,0 +1,69 @@
+  <style>
+
+    .main{
+      background: black;
+    }
+
+    .navwrapper{
+      font-size: 32px;
+    }
+
+    .text1{
+      position: relative;
+      text-align: middle;
+    }
+
+
+    .credits{
+      position: relative;
+      text-align: middle;
+    }
+
+    .unity img{
+      opacity: 1;
+    }
+
+    .contact{
+      text-align: center;
+    }
+
+
+    body{
+      background-color: black;
+      font-family: 'VT323', monospace;
+      font-size: 64px;
+      color: white;
+    }
+
+    video {
+      padding-top: 100;
+      width: 100%;
+      height: 75%;
+    }
+
+    p{
+      color: light-grey;
+      text-align: center;
+    }
+
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: auto;
+      opacity: 0.5;
+    }
+
+
+    a{
+      color: white;
+      text-decoration: none;
+    }
+
+
+    nav{
+      position: fixed;
+    }
+
+
+  </style>
